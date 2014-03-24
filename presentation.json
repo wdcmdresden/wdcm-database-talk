@@ -1,0 +1,5 @@
+{ "title": "WDCM Datenbanken Rundumschlag", "theme": "CSSS", "duration": 20, 
+  "sections": {
+    "main": "Stefan ~ Astro ~ Jens ~ Ralf",
+    "postgresql": "PSQL"
+} }
