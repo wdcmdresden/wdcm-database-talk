@@ -10,6 +10,6 @@ gem install slide-em-up
 slide-em-up
 ```
 
-Die Vorschau seht ihr dann auf [http://localhost:9000](https://piratenpad.org/p/wdcmapril) .
+Die Vorschau seht ihr dann auf [http://localhost:9000](http://localhost:9000) .
 
 Koordination: [PiratenPad](https://piratenpad.org/p/wdcmapril)
