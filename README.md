@@ -1,6 +1,6 @@
 # WDCM APRIL TALK ZU DATENBANKEN
 
-## Aufbau: presentation.js
+## Aufbau: presentation.json
 Ihr könnt pro Abschnitt einen Ordner mit slides.md als Inhalt erstellen.
 In presentation.json fügt ihr dann den Ordnernamen mit dem gewüschten Titel des Abschnittes hinzu.
 
